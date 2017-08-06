@@ -1,3 +1,19 @@
+
+	>>>>>>Programa del LCD paramaquina de monedas<<<<<<<
+
+	Utiliza la interrupcion 0 para recibir que el dato de la moendas
+	del otro microcontrolador
+
+	Configuracion de pines:
+		PIN D2 Entrada del dato de las monedas introducidas
+
+
+	Advertencia:
+		Introducir dinero antes de seleccionar articulo
+
+
+
+
 #define F_CPU 1000000UL // Cristal externo de 4Mhz
 
 
