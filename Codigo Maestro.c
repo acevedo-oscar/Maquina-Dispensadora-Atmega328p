@@ -16,6 +16,11 @@
 
 	Advertencia:
 		Introducir dinero antes de seleccionar articulo
+
+	Comentarios adicionales:
+
+	Debido a la limitacion de i/o y al no querer incrementar la complejidad del programa utilizando registro de corrimiento,
+	se obto por utilizar un segundo microcontrolador atmega 328p para controlar el LCD.
 */
 
 
