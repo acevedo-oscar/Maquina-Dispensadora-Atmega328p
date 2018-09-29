@@ -8,3 +8,5 @@ En este repositorio encontrarás código C para hacer una máquina dispensadora 
 En pariticular, se hace usos de las interrupciones 1 y 2.
 
 
+![GitHub Logo](https://www.wikinote.org/download/Main/Savitribai-Phule-Pune-University/MAE/EEE-SE/Unit-4/ATmega328P/WebHome/ATmega328P-Pin-diagram.png)
+ 
